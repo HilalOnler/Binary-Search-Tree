@@ -14,7 +14,7 @@
 Binary Search Tree (BST), her düğüm için "solundaki düğümler küçük, sağındaki düğümler büyük" olacak şekilde bir ağaç oluşturur.
 
 **[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]** -> Başlangıç
-1.   İlk eleman **root** olur:
+# 1.   İlk eleman **root** olur:
 ```
 Root: 7
 ```
